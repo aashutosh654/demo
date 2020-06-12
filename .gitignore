@@ -1,0 +1,5 @@
+*.log
+/hello/
+static/hello
+after/
+install01
